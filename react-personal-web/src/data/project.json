@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Virus Tracker",
+      "imageSrc": "project/proj.png",
+      "description": "An All In One Website To Stay Up To Date With Covid & Monkeypox News and showcase them",
+      "skillz": ["HTML", "CSS", "Javascript"],
+      "source": "https://github.com/JosephHauter/Virus-Tracker"
+    },
+    {
+      "title": "Sudoku Solver",
+      "imageSrc": "project/proj.png",
+      "description": "This is a project made to learn backtracking by building an app that is a C++ Sudoku Solver.",
+      "skillz": ["C++", "GitHub", "Backtracking"],
+      "source": "https://github.com/hninl23/project-6-sudoku-observer-hninl23"
+    },
+    {
+      "title": "LangGuard",
+      "imageSrc": "project/proj.png",
+      "description": "A project made to experiment with LangChain API that retrieves information from PDF.",
+      "skillz": ["Python/Flask","React", "Langchain"],
+      "source": "https://github.com/hninl23/llm-test"
+    }
+  ]

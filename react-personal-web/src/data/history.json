@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Software Engineer Intern",
+      "organization": "Unadat",
+      "startDate": "Jan, 2022",
+      "endDate": "May, 2023",
+      "experiences": ["Revamped Unadat's chores feature with code refactoring and an interactive modal popup", "Achieved a 20% engagement boost through improved user interface."],
+      "imageSrc": "history/unadat.png"
+    },
+    {
+      "role": "Software Engineer Intern",
+      "organization": "JP Morgan & Chase",
+      "startDate": "Jan, 2023",
+      "endDate": "Feb, 2022",
+      "experiences": ["Analyzed financial data with Python's pandas library", "Designed a reusable email template"],
+      "imageSrc": "history/jpm.png"
+    },
+    {
+      "role": "Undergraduate Teaching Assistant",
+      "organization": "CUNY Hunter College",
+      "startDate": "Aug, 2022",
+      "endDate": "Present",
+      "experiences": [
+        "Conducted Bi-weekly code reviews and provided constructive feedbacks for students",
+        "Collaborated on tutoring strategies, contributing to a 30% increase on grade averages"
+      ],
+      "imageSrc": "history/teacher.png"
+    }
+  ]
