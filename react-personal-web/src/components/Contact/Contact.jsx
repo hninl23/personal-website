@@ -12,7 +12,7 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImgUrl("contact/profile.png")} alt="Resume icon" />
-          <a href='lwinresume.pdf' target='_blank'>Resume</a>
+          <a href="../../../lwinresume.pdf" target='_blank'>Resume</a>
         </li>
         <li className={styles.link}>
           <img
