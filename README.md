@@ -2,7 +2,7 @@
 
 This is a personal project website to experiment with REACT/Vite while showcasing my experiences and past projects.
 
-#Things I learned:
+##Things I learned:
 
 - How to use components in REACT
 - Using '###.module.css' for the styling to NOT override each other
