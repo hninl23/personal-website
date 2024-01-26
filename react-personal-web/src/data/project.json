@@ -7,11 +7,11 @@
       "source": "https://github.com/JosephHauter/Virus-Tracker"
     },
     {
-      "title": "Sudoku Solver",
+      "title": "Baker's ToolBox",
       "imageSrc": "project/proj.png",
-      "description": "This is a project made to learn backtracking by building an app that is a C++ Sudoku Solver.",
-      "skillz": ["C++", "GitHub", "Backtracking"],
-      "source": "https://github.com/hninl23/project-6-sudoku-observer-hninl23"
+      "description": "This is a Hackathon project made to encourage bakers to bake despite not having all the ingredients",
+      "skillz": ["HTML", "GitHub", "Javascript"],
+      "source": "https://github.com/hninl23/baker-s-toolbox"
     },
     {
       "title": "LangGuard",

@@ -2,7 +2,7 @@
     {
       "role": "Software Engineer Intern",
       "organization": "Unadat",
-      "startDate": "Jan, 2022",
+      "startDate": "Jan, 2023",
       "endDate": "May, 2023",
       "experiences": ["Revamped Unadat's chores feature with code refactoring and an interactive modal popup", "Achieved a 20% engagement boost through improved user interface."],
       "imageSrc": "history/unadat.png"
@@ -11,7 +11,7 @@
       "role": "Software Engineer Intern",
       "organization": "JP Morgan & Chase",
       "startDate": "Jan, 2023",
-      "endDate": "Feb, 2022",
+      "endDate": "Feb, 2023",
       "experiences": ["Analyzed financial data with Python's pandas library", "Designed a reusable email template"],
       "imageSrc": "history/jpm.png"
     },
