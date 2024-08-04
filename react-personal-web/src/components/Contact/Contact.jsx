@@ -12,7 +12,7 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImgUrl("contact/profile.png")} alt="Resume icon" />
-          <a href="https://hnin-lwin-resume.tiiny.site">Resume</a>
+          <a href="https://white-briana-15.tiiny.site/">Resume</a>
         </li>
         <li className={styles.link}>
           <img

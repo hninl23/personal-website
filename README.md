@@ -1,6 +1,6 @@
 # Hnin's Personal Website 😃
 
-This is a personal project website to experiment with REACT/Vite while showcasing my experiences and past projects.
+This is a personal project website to experiment with REACT/Vite while showcasing my experiences and past projects. Thank you very much for visiting.
 
 
 ## Things I learned 🤔:
