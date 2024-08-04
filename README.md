@@ -12,7 +12,7 @@ This is a personal project website to experiment with REACT/Vite while showcasin
 - Using Figma to read designs and translate them into REACT
 
 ### Website 🕹️: 
-https://hninspersonalproject.netlify.app/
+https://hnin-website.netlify.app/
 
 ### Tutorial 🎞️: 
 https://www.youtube.com/watch?v=YQCDUJ6hhNY&t=697s 
